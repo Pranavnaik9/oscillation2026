@@ -59,7 +59,7 @@ document.addEventListener('DOMContentLoaded', () => {
         `,
         'ppt': `
             <ul>
-                <li>Participants have to pitch their Startup and Innovation Idea</li>
+                <li>Participants have to pitch their Startup and Innovation Idea.</li>
                 <li>Participation can be individual or in a team (max 4 members).</li>
                 <li>Presentation time: 5–7 minutes + 2 minutes Q&A.</li>
                 <li>PPT should contain minimum 8 slides and maximum 12 slides.</li>
@@ -355,4 +355,5 @@ document.addEventListener('DOMContentLoaded', () => {
         }, 8000);
     }, 5000); // Appear after 5 seconds
 });
+
 
