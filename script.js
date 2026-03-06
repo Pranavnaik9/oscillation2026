@@ -64,7 +64,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 <li>Presentation time: 5–7 minutes + 2 minutes Q&A.</li>
                 <li>PPT should contain minimum 8 slides and maximum 12 slides.</li>
                 <li>Participants must bring their PPT in pen drive or email backup.</li>
-                <li>Mail your PPT to vu3f2425029@pvppcoe.ac.in .</li>
                 <li>Evaluation will be based on: Innovation, Feasibility, Impact & Presentation.</li>
                 <li>Decision of judges will be final.</li>
             </ul>
@@ -356,6 +355,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }, 8000);
     }, 5000); // Appear after 5 seconds
 });
+
 
 
 
