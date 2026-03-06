@@ -59,13 +59,12 @@ document.addEventListener('DOMContentLoaded', () => {
         `,
         'ppt': `
             <ul>
-                <li>Participation can be individual or in a team (max 3 members).</li>
+                <li>Participants have to pitch their Startup and Innovation Idea</li>
+                <li>Participation can be individual or in a team (max 4 members).</li>
                 <li>Presentation time: 5–7 minutes + 2 minutes Q&A.</li>
                 <li>PPT should contain minimum 8 slides and maximum 12 slides.</li>
-                <li>Problem Statement will be given.</li>
                 <li>Participants must bring their PPT in pen drive or email backup.</li>
-                <li>Use of plagiarized content will lead to disqualification.</li>
-                <li>Evaluation will be based on: Content quality, Presentation skills, Slide design, Time management.</li>
+                <li>Evaluation will be based on: Innovation, Feasibility, Impact & Presentation.</li>
                 <li>Decision of judges will be final.</li>
             </ul>
         `,
@@ -356,3 +355,4 @@ document.addEventListener('DOMContentLoaded', () => {
         }, 8000);
     }, 5000); // Appear after 5 seconds
 });
+
